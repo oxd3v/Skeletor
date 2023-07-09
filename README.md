@@ -1,14 +1,27 @@
 Skeletor
+
+
 ticker: Skull
+
 MaxSupply: 100,000,000,000 Skull
+
 No Team or Dev Token. 
 100% token sent to LP.
+
+
 Max Wallet amount = 1 billion (1%)
 Max Tx size = 500 million (0.5%)
+
 Tax total: 10%
 wPlS printingTax = 2% >> Sent Back to holders
+
+
 MarketingTax = 3% [marketing will start soon]
+
+
 AutoLp = 3% >> To make LP size grow.
+
+
 Skull Self reflection = 2% >> Back to holders
 
 Double Rewards - On chain.
