@@ -16,7 +16,15 @@ Skull Prints wPLS with each transactions
 Skull  Reflects Skull with each transactions
 
 NETWORK: PULSCHAIN MAINNET
+
+
 TOKEN ADDRESS: 0x6eb4e71851791B24A496257175906e8eEcf8A8aA
+
+
 DEX URL: https://app.pulsex.com/swap?chain=pulsechain&outputCurrency=0x6eb4e71851791B24A496257175906e8eEcf8A8aA
+
+
 JOIN TELEGRAM : https://t.me/+cNuazFJUtKU3NGJl
+
+
 SEE CHART INFO : https://dexscreener.com/pulsechain/0x87eb92e1cf1ff059663d71c3488795571256e602
